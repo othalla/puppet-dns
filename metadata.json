@@ -1,0 +1,15 @@
+{
+  "name": "othalla-dns",
+  "version": "0.1.0",
+  "author": "othalla",
+  "summary": "Module to setup othalla's bind DNS",
+  "license": "Apache-2.0",
+  "source": "https://github.com/othalla/puppet-dns.git",
+  "project_page": "https://github.com/othalla/puppet-dns",
+  "issues_url": "https://github.com/othalla/puppet-dns/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
